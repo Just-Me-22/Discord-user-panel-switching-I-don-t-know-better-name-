@@ -82,4 +82,4 @@ row itself. They work fine together.
 
 ## License
 
-GPL-3.0-or-later, matching Equicord.
+GPL-3.0-or-later
