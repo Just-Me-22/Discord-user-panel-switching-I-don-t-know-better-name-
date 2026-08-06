@@ -4,6 +4,8 @@ An [Equicord](https://github.com/Equicord/Equicord) userplugin that makes the
 account panel in the bottom left show your **server profile** for whatever server
 you are currently viewing, instead of always showing your main profile.
 
+![The account panel showing a server profile, with the nameplate and avatar decoration animating](preview.gif)
+
 Discord already lets you set a different avatar, nickname, nameplate, avatar
 decoration and display name style per server. Everyone else sees those. You do
 not: your own panel keeps showing your global profile no matter where you are.
@@ -50,7 +52,7 @@ Clone into your Equicord checkout's userplugins folder:
 
 ```bash
 cd Equicord/src/userplugins
-git clone https://github.com/Just-Me-22/Discord-user-panel-switching-I-don-t-know-better-name- userPanelServerProfile
+git clone https://github.com/Just-Me-22/UserPanelServerProfile userPanelServerProfile
 cd ../..
 pnpm build
 ```
